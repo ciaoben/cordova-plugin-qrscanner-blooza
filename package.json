@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-qrscanner-11",
+  "name": "cordova-plugin-qrscanner-blooza",
   "version": "3.0.3",
   "description": "Fast, energy-efficient, highly-configurable QR code scanner.",
   "cordova": {
-    "id": "cordova-plugin-qrscanner-11",
+    "id": "cordova-plugin-qrscanner-blooza",
     "platforms": [
       "ios"
     ]
